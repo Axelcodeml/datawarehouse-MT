@@ -23,12 +23,12 @@ We can see three-dimensional tables and fact tables. This information gives us a
   
 <h3>ETL process-Fact Table about the tracking of the sales</h3>
 </br>
-  <img src="Images_Project/1. ETL_Fact_Seguimiento" alt="" width="600" height="420" class="center">
+  <img src="Images_Project/1. ETL_Fact_Seguimiento.JPG" >
 
 The result of the ETL process in dimension tables and fact tables is to build the final data warehouse which is very useful at the time to develop visualizations of key metrics in dashboards like Power BI, Tableau, etc.
 
 </br>
-  <img src="Images_Project/data-warehouse.JPG" alt="">   
+  <img src="Images_Project/data-warehouse.jpg" alt="" width="600" height="420" class="center">   
 
 Beyond developing the ETL Process is also important to orchestrate the steps to transform each one of the dimensions and the fact table. This is useful when we use the jobs in Pentaho software.
 

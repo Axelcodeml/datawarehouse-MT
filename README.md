@@ -23,7 +23,7 @@ We can see three-dimensional tables and fact tables. This information gives us a
   
 <h3>ETL process about the tracking of the sales</h3>
 </br>
-  <img src="Images_Project/1. ETL_Fact_Seguimiento.JPG" alt="">
+  <img src="Images_Project/data-warehouse.jpg" alt="">
 
 The result of the ETL process in dimension tables and fact tables is to build the final data warehouse which is very useful at the time to develop visualizations of key metrics in dashboards like Power BI, Tableau, etc.
 

@@ -35,9 +35,11 @@ Beyond developing the ETL Process is also important to orchestrate the steps to 
 <h4> Dimensions Tables </h4>
 </br>
   <img src="Images_Project/Job_ETL_dim.JPG" alt=""> 
+  Orchestration of the steps in dimension tables
 
 <h4> Fact Table </h4>
 </br>
   <img src="Images_Project/Job_ETL_fact.JPG" alt="">
+  Orchestration of the steps in fact table
 
 **Conclusions:** We have developed a data warehouse that is very useful for querying and developing business insights in less time, saving time in processing and automating the new data ingested from the main databases of the businesses.

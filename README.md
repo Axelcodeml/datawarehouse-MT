@@ -29,3 +29,13 @@ The result of the ETL process in dimension tables and fact tables is to build th
 
 </br>
   <img src="Images_Project/data-warehouse.JPG" alt="">   
+
+Beyond developing the ETL Process is also important to orchestrate the steps to transform each one of the dimensions and the fact table. This is useful when we use the jobs in Pentaho software.
+
+<h4> Dimensions Tables </h4>
+</br>
+  <img src="Images_Project/Job_ETL_dim.JPG" alt=""> 
+
+<h4> Fact Table </h4>
+</br>
+  <img src="Images_Project/Job_ETL_fact.JPG" alt="">

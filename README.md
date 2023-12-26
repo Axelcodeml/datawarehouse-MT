@@ -11,16 +11,16 @@ We can see three-dimensional tables and fact tables. This information gives us a
 
 <h3>Table of Dimension about course</h3>
 </br>
-  <img src="Images_Project/3. ETL_curso.jpg" alt="">
+  <img src="Images_Project/3. ETL_curso.JPG" alt="">
   
 <h3>Table of Dimension about tiempo</h3>
 </br>
-  <img src="Images_Project/2. ETL_Tiempo.jpg" alt="">
+  <img src="Images_Project/2. ETL_Tiempo.JPG" alt="">
   
 <h3>Table of Dimension about campaigns</h3>
 </br>
-  <img src="Images_Project/4. ETL_campania.jpg" alt="">
+  <img src="Images_Project/4. ETL_campania.JPG" alt="">
   
 <h3>Table of facts about the tracking of the sales</h3>
 </br>
-  <img src="Images_Project/1. ETL_Fact_Seguimiento.jpg" alt="">
+  <img src="Images_Project/1. ETL_Fact_Seguimiento.JPG" alt="">
